@@ -9,5 +9,7 @@ public class test {
         System.out.println("master第四次测试");
         System.out.println("pushtest");
          System.out.println("pushtest1");
+        System.out.println("gitee牛逼");
+        
     }
 }
