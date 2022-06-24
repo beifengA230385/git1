@@ -7,5 +7,6 @@ public class test {
         System.out.println("第三次测试");
         System.out.println("第四次");
         System.out.println("master第四次测试");
+        System.out.println("pushtest");
     }
 }
